@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KitFOx🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sonny🥳&fontSize=50&animation=twinkling)
 
 <h2 align="center"> Hi👋</h2>
 <h3 align="center">I am CG Programmer who love development</h3>
