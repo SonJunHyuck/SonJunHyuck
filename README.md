@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sonny🥳&fontSize=50&animation=twinkling)
 
 <h2 align="center"> Hi👋</h2>
-<h3 align="center">I am CG Programmer who love development</h3>
+<h3 align="center">Compute Graphics, Game, Simulation etc.</h3>
 <p align="center">
-  I believe Open Source make better technology<br/>
-  I hope my work affect good way to you<br/><br/>
+  I wnat to get Smile :) <br/><br/>
   🇰🇷
 </p>
 
